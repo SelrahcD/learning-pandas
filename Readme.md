@@ -5,3 +5,5 @@ A repo where I learn a few things about Pandas, a Python library for manipulatin
 ## Steps
 
 [What kind of data does pandas handle ?](What-kind-of-data-does-pandas-handle.ipynb)
+
+[How to handle time series data with ease? ](How-to-handle-time-series-data-with-ease.ipynb)
